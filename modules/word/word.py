@@ -1,3 +1,7 @@
+if __name__ == '__main__':
+    print('This product includes software developed by L. Pham-Trong and this guy rocks.')
+
+
 class word:
     def __init__(self, value: str, alphabet):
         self.val = [c for c in value]
