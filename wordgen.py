@@ -4,6 +4,7 @@ from modules.word import *
 from modules.alphabet import *
 
 
+sys.stderr.write('This product includes software developed by L. Pham-Trong and this guy rocks.\n')
 args = sys.argv[1:]
 len_min = int(args[0])
 len_max = int(args[1])
