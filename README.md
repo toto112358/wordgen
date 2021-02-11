@@ -58,3 +58,6 @@ However here are some available alphabets:
 
 **Pro tip:** You can actually use an input file as
 an alphabet. Run `xargs ./wordgen.py [your usual options] < alphabet.txt`.
+However, if alphabet contains special characters such as spaces it is
+recommanded to escape them in the file or quote the file. I might add
+a little script that does the job.
