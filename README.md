@@ -40,7 +40,7 @@ Whereas with `wordgen` I instantly get 15,000 keys/s
 as soon as I press enter.
 
 Also, crunch is way too bloated. The man page of crunch
-is 274 lines long!!!
+is 274 lines long (two or three times more lines than in wordgen source code)!!!
 
 ## Usage
 
